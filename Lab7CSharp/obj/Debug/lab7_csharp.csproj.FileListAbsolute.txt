@@ -1,0 +1,12 @@
+C:\Users\freed\Source\Repos\lab7-K4chur1\Lab7CSharp\bin\Debug\Lab7CSharp.exe.config
+C:\Users\freed\Source\Repos\lab7-K4chur1\Lab7CSharp\bin\Debug\Lab7CSharp.exe
+C:\Users\freed\Source\Repos\lab7-K4chur1\Lab7CSharp\bin\Debug\Lab7CSharp.pdb
+C:\Users\freed\Source\Repos\lab7-K4chur1\Lab7CSharp\obj\Debug\Lab7CSharp.csproj.AssemblyReference.cache
+C:\Users\freed\Source\Repos\lab7-K4chur1\Lab7CSharp\obj\Debug\Lab7CSharp.Properties.Resources.resources
+C:\Users\freed\Source\Repos\lab7-K4chur1\Lab7CSharp\obj\Debug\Lab7CSharp.csproj.GenerateResource.cache
+C:\Users\freed\Source\Repos\lab7-K4chur1\Lab7CSharp\obj\Debug\Lab7CSharp.csproj.CoreCompileInputs.cache
+C:\Users\freed\Source\Repos\lab7-K4chur1\Lab7CSharp\obj\Debug\Lab7CSharp.exe
+C:\Users\freed\Source\Repos\lab7-K4chur1\Lab7CSharp\obj\Debug\Lab7CSharp.pdb
+C:\Users\freed\Source\Repos\lab7-K4chur1\Lab7CSharp\obj\Debug\laboratorna_robota7.Form1.resources
+C:\Users\freed\Source\Repos\lab7-K4chur1\Lab7CSharp\obj\Debug\laboratorna_robota7.Form2.resources
+C:\Users\freed\Source\Repos\lab7-K4chur1\Lab7CSharp\obj\Debug\laboratorna_robota7.Form3.resources
